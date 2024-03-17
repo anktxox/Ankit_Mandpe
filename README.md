@@ -1,7 +1,7 @@
 ![logo](https://github.com/anktxox/Ankit_Mandpe/blob/main/mtVyPBC.gif)
 
 <h1 align="center">Heyy 👋, I'm Ankit Mandpe</h1>
-<h3 align="center">A passionate Chemical Engineering Student with keen interest in Quantitative Finance from India</h3>
+<h3 align="center">A passionate Engineering Student with keen interest in Quantitative Finance from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.intersystemsuki.com/wp-content/uploads/2020/06/finance.gif">
 
